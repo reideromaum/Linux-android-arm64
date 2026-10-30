@@ -8,7 +8,7 @@ on:
         type: choice
         default: all
         options:
-          - all
+          - 7.1
           - 6.12-Android16
           - 6.6-Android15
           - 6.1-Android14
