@@ -1,4 +1,4 @@
-#pragma limux-arm96
+#pragma once
 
 #include <algorithm>
 #include <chrono>
@@ -22,7 +22,7 @@
 #include "font/oppo_font.h"
 
 // Vulkan 后端实现
-namespace linux-arm92
+namespace RenderVK
 {
     const int MAX_FRAMES_IN_FLIGHT = 2;
 
